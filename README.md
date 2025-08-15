@@ -13,6 +13,9 @@ I'm a Full stack Developer passionate about building scalable APIs and databases
 ## 📈 GitHub Stats
 ![Arko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arko-2025&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arko-2025&layout=compact&theme=tokyonight)
+
+
 ## 📂 Projects
 - 🔗 [Quora-Posts](https://github.com/Arko-2025/Quora-Posts) – REST API with CRUD functionality
 - 🔗 [CRUD-in-Sql-database](https://github.com/Arko-2025/CRUD-in-Sql-database) – Basic SQL operations using Node.js , Javacript , Express.js
